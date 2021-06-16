@@ -1,1 +1,1 @@
-print("Hola, wenas ¡Que tal?!!")
+print("Hola, wenas")
